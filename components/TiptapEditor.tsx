@@ -49,7 +49,8 @@ const TiptapEditor = () => {
         transformCopiedText: true,
       }),
     ],
-    content: '', // Set to an empty string to start with a blank editor
+    content: '# Hello!', // Set to an empty string to start with a blank editor
+    immediatelyRender: false,
     editorProps: {
       attributes: {
         class: 'prose prose-sm sm:prose lg:prose-lg xl:prose-2xl focus:outline-none',
