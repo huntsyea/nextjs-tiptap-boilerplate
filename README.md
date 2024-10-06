@@ -1,7 +1,5 @@
 # Markdown Editor with Next.js and Tiptap
 
-![Markdown Editor](https://source.unsplash.com/random/1200x630/?markdown,editor)
-
 A beautiful and feature-rich Markdown editor built with Next.js, Tiptap, and shadcn/ui. This project provides a modern, responsive, and customizable editing experience with real-time Markdown preview and syntax highlighting.
 
 ## Features
